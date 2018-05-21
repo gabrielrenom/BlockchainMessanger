@@ -1,0 +1,11 @@
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\bin\Debug\netcoreapp2.0\BlockChain.Business.deps.json
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\bin\Debug\netcoreapp2.0\BlockChain.Business.dll
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\bin\Debug\netcoreapp2.0\BlockChain.Business.pdb
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\obj\Debug\netcoreapp2.0\BlockChain.Business.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\obj\Debug\netcoreapp2.0\BlockChain.Business.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\obj\Debug\netcoreapp2.0\BlockChain.Business.AssemblyInfoInputs.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\obj\Debug\netcoreapp2.0\BlockChain.Business.AssemblyInfo.cs
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\obj\Debug\netcoreapp2.0\BlockChain.Business.dll
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\obj\Debug\netcoreapp2.0\BlockChain.Business.pdb
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\bin\Debug\netcoreapp2.0\BlockChain.Commons.dll
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Business\bin\Debug\netcoreapp2.0\BlockChain.Commons.pdb

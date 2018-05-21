@@ -1,0 +1,9 @@
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\bin\Debug\netcoreapp2.0\BlockChain.Commons.deps.json
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\bin\Debug\netcoreapp2.0\BlockChain.Commons.dll
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\bin\Debug\netcoreapp2.0\BlockChain.Commons.pdb
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\obj\Debug\netcoreapp2.0\BlockChain.Commons.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\obj\Debug\netcoreapp2.0\BlockChain.Commons.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\obj\Debug\netcoreapp2.0\BlockChain.Commons.AssemblyInfoInputs.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\obj\Debug\netcoreapp2.0\BlockChain.Commons.AssemblyInfo.cs
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\obj\Debug\netcoreapp2.0\BlockChain.Commons.dll
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.Commons\obj\Debug\netcoreapp2.0\BlockChain.Commons.pdb

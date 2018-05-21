@@ -1,0 +1,9 @@
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\bin\Debug\netcoreapp2.0\BlockChain.DAL.deps.json
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\bin\Debug\netcoreapp2.0\BlockChain.DAL.dll
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\bin\Debug\netcoreapp2.0\BlockChain.DAL.pdb
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\obj\Debug\netcoreapp2.0\BlockChain.DAL.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\obj\Debug\netcoreapp2.0\BlockChain.DAL.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\obj\Debug\netcoreapp2.0\BlockChain.DAL.AssemblyInfoInputs.cache
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\obj\Debug\netcoreapp2.0\BlockChain.DAL.AssemblyInfo.cs
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\obj\Debug\netcoreapp2.0\BlockChain.DAL.dll
+C:\Users\gabriel.renom\source\repos\BlockChain.WebAPI\BlockChain.DAL\obj\Debug\netcoreapp2.0\BlockChain.DAL.pdb
